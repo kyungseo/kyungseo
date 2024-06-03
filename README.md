@@ -3,8 +3,7 @@
 
 ![Header](./github-header-image.png)
 
-A Developer with 20+ years of hands-on experience in Software Architecture/System Integration/Team Leading, 
-<br/>especially in Java and its ecosystems.
+A Developer with 20+ years of hands-on experience in Software Architecture/System Integration/Team Leading, especially in Java and its ecosystems.
 
 <i>▶ I'm currently working on a project!</i>
 
