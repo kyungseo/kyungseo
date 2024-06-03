@@ -1,11 +1,11 @@
 
 ## 👩‍💻 About Me
 
+<i>▶ I'm currently working on a project!</i>
+
 ![Header](./github-header-image.png)
 
 A Developer with 20+ years of hands-on experience in Software Architecture/System Integration/Team Leading, especially in Java and its ecosystems.
-
-<i>▶ I'm currently working on a project!</i>
 
 ### 🛠 My Skill Set  
 <table><tr><td valign="top" width="300px">
