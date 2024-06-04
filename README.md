@@ -3,7 +3,7 @@
 
 <i>▶ I'm currently working on a project!</i>
 
-![Header](./github-header-image.png)
+![Header](./github-header-new.png)
 
 ### 🛠 My Skill Set  
 <table><tr><td valign="top" width="300px">
