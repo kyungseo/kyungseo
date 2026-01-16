@@ -1,9 +1,10 @@
 
 ## 👩‍💻 About Me
 
-<i>▶ I'm currently working on a project!</i>
+<h4>Architect focused on enterprise systems.</h4>
 
-![Header](./github-header-new.png)
+<i>I'm currently working on a project.</i>
+<br/><br/>
 
 ### 🛠 My Skill Set  
 <table><tr><td valign="top" width="300px">
