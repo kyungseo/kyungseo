@@ -1,12 +1,12 @@
 
-## About Me
+## 🕶️ &nbsp;&nbsp;About Me
 
 <h4>Architect focused on enterprise systems.</h4>
 
 <i>I'm currently working on a project.</i>
 <br/><br/>
 
-### 🛠 My Skill Set  
+## 🛠 &nbsp;&nbsp;My Skill Set  
 <table><tr><td valign="top" width="300px">
 <b>Frontend</b><br/><br/>
 <div align="center">  
