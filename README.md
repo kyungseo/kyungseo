@@ -4,7 +4,7 @@ Software architect focused on enterprise systems and AI-assisted development wor
 
 I'm interested in what stays durable as coding agents get stronger — preserving intent, human decision authority, verifiable project state, and evidence across long-running AI-assisted work, so it remains reviewable and recoverable.
 
-Currently building [`ai-workflow-harness`](https://github.com/kyungseo/ai-workflow-harness) and regularly using it across my own projects.
+Currently building Harness v2—the successor to [`ai-workflow-harness`](https://github.com/kyungseo/ai-workflow-harness)—to take these ideas further.
 
 I write about these experiments — agent collaboration, review workflows, and what I learn along the way — on [my blog](https://kyungseo.github.io/) (in Korean and English).
 <br/><br/>
