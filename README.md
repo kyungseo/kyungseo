@@ -1,12 +1,12 @@
 ## 🕶️ &nbsp;&nbsp;About Me
 
-Software architect focused on enterprise systems and AI-assisted development workflows.
+Software architect focused on enterprise systems and practical ways to work with AI agents.
 
-I'm interested in what stays durable as coding agents get stronger — preserving intent, human decision authority, verifiable project state, and evidence across long-running AI-assisted work, so it remains reviewable and recoverable.
+I'm interested in how people and AI agents can carry a project from design through implementation, documentation, and review—while keeping decisions in human hands and making it clear what changed, why, and what was verified.
 
-Currently building Colvia(Harness v2)—the successor to [`ai-workflow-harness`](https://github.com/kyungseo/ai-workflow-harness)—to take these ideas further.
+I'm currently building **Colvia** to help that work continue across conversations: preserving project context, approved scope, and reviewable results so each new session can pick up where the last one left off. It builds on my earlier work on [ai-workflow-harness](https://github.com/kyungseo/ai-workflow-harness).
 
-I write about these experiments — agent collaboration, review workflows, and what I learn along the way — on [my blog](https://kyungseo.github.io/) (in Korean and English).
+I write about these experiments, agent collaboration, and lessons from building software on [my blog](https://kyungseo.github.io/) in Korean and English.
 <br/><br/>
 
 <!--
